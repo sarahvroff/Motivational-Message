@@ -18,8 +18,8 @@ Motivational messages is a simple program built with JavaScript and Node.js. Eve
 
 ## Setup
 - Prerequesites: Node.js
-- fork the repo
-- cd into the repo
+- clone the repo
+- cd into the repo 
 - run `node script.js`
 - run again for another randomized message
 
